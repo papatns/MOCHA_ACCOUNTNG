@@ -1,0 +1,24 @@
+.benefit_container{
+    /* background-color: #F2F0EB; */
+    /* border: 1px solid red; */
+    /* margin-top: 50px; */
+    /* height: 992px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 100px 110px 100px 110px;
+    gap: 80px;
+    /* background-color: #F9F9F9; */
+}
+.benefit_header{
+    
+    
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: center;
+    
+color: #1C352D;
+
+}

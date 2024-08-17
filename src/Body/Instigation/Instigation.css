@@ -1,0 +1,21 @@
+.instigation_container{
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 80px 80px 80px;
+    background-color: #F9F9F9;
+}
+.header{
+   
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+/* text-align: left; */
+color: #1C352D;
+
+}
+.logo_container{
+    display: flex;
+    gap: 50px;
+}
